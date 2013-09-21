@@ -1,0 +1,13 @@
+.projectName
+{
+  display: inline-block;
+  font-size: 24px;
+  font-weight: 900;
+  width: 40%;
+}
+
+
+.projectGitHub
+{
+  font-size: 14px;  
+}
