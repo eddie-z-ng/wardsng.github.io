@@ -1,4 +1,4 @@
-linked82000.github.io
+My personal GitHub webpage
 ===
 
-[linked82000.github.io](http://linked82000.github.io)
+See it at [linked82000.github.io](http://linked82000.github.io)
