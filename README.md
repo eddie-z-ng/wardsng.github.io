@@ -1,4 +1,4 @@
-My personal GitHub webpage
+My personal webpage showcasing some of my toy projects
 ===
 
-See it at [linked82000.github.io](http://linked82000.github.io)
+See it at [eddieng.org](http://eddieng.org)

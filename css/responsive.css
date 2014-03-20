@@ -1,0 +1,96 @@
+@media screen and (min-width: 480px) {
+  
+  /**********************************
+  TWO COLUMN LAYOUT (GEN INFO & CONTACT)
+  ***********************************/
+  
+  #primary {
+    width: 45%;
+    float: left;
+  }
+  
+  #secondary {
+    width: 40%;
+    float: right;
+  }
+    
+  /**********************************
+  PAGE: ABOUT
+  ***********************************/
+  
+  .profile-photo {
+    float: left;
+    margin: 0 3% 45px 0;
+  }
+
+  /**********************************
+  PAGE: PORTFOLIO
+  ***********************************/
+  
+  #gallery li {
+    width: 45%;
+    margin: 2.5%;
+  }
+  
+  #gallery li:nth-child(5n) {
+    clear: left;
+  }
+
+  #gallery p {
+    font-size: 0.80em;
+  }
+  
+}
+
+@media screen and (min-width: 660px) {
+
+  /**********************************
+  HEADER
+  ***********************************/
+
+  nav {
+    background: none;
+    float: right;
+    font-size: 1.125em;
+    margin-right: 5%;
+    text-align: right;
+    width: 45%;
+  }
+  
+  #logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 0.825em;
+    margin-bottom: 20px;
+  }
+  
+  header {
+    border-bottom: 5px solid rgba(89, 131, 154, .75);
+    margin-bottom: 60px;
+  }
+
+  /**********************************
+  PAGE: PORTFOLIO
+  ***********************************/
+  #gallery li {
+    width: 28.3333%;
+  }
+  #gallery li:nth-child(5n) {
+    clear: none;
+  }
+  #gallery li:nth-child(4n) {
+    clear: left;
+  }  
+}
+
+
+
